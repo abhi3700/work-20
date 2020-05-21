@@ -1,0 +1,5 @@
+gspread: https://github.com/burnash/gspread
+python-docx: https://pypi.org/project/python-docx/
+gmail: https://github.com/jeremyephron/simple-gmail
+
+NOTE: enable gmail & drive API in developer console
